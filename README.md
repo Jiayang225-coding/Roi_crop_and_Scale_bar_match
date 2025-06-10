@@ -14,7 +14,7 @@ However, the two tools provided here are fully reusable and applicable to a wide
 
 ## 🧭 Module Overview
 
-| Module | Description |
+| Files | Description |
 |--------|-------------|
 | [`roi_crop/`](./roi_crop) | Interactive tool to crop hole-centered or defect-centered regions |
 | [`scale_bar_match_automation/`](./scale_bar_match_automation) | Detect scale bar and compute mils-per-pixel ratio automatically |
