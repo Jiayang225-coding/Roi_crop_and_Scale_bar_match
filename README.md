@@ -42,6 +42,14 @@ However, the two tools provided here are fully reusable and applicable to a wide
 Developed by JiaYang Li — Materials Engineer specialized in AI-assisted image analysis for microstructure evaluation.
 
 ---
+<h2>Program walk-through:</h2>
+
+<p align="center">
+Launch the utility: <br/>
+<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+---
 
 ## 💻 Installation
 
