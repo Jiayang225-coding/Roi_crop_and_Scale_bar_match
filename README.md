@@ -46,13 +46,18 @@ Developed by JiaYang Li — Materials Engineer specialized in AI-assisted image 
 
 Image_cropping video:
 https://github.com/user-attachments/assets/c207cf59-4f9f-4b42-b24e-baf25dfd097c
-<p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
----
+<p align="left">
+Scale_bar_match_result_show: <br/>
+<p align="left">
+Before_match: <br/>
+<img src="https://i.imgur.com/Pli2eTj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p align="left">
+After_match: <br/>
+<img src="https://i.imgur.com/O9QC3ZZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+
+
+---
 ## 💻 Installation
 
 
