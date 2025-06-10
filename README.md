@@ -16,8 +16,9 @@ However, the two tools provided here are fully reusable and applicable to a wide
 
 | Files | Description |
 |--------|-------------|
-| [`roi_crop/`](./roi_crop) | Interactive tool to crop hole-centered or defect-centered regions |
-| [`scale_bar_match_automation/`](./scale_bar_match_automation) | Detect scale bar and compute mils-per-pixel ratio automatically |
+| **ROI Cropper** (`roi_cropper.py`, `crop_test.py`, `w2.png`) | Interactive OpenCV-based tool for selecting region of interest (ROI) around drilled holes or defects. `roi_cropper.py` contains the core function, and `crop_test.py` is an example script using `w2.png`. |
+| **Scale Bar Detector** (`scale_bar_detector.py`, `scale_bar_match_test.py`, `material.png`, `200_scale.png`) | Detects embedded scale bars via multi-scale template matching and computes physical scale in mils/pixel. `scale_bar_detector.py` is the core module, and `scale_bar_match_test.py` demonstrates detection using `material.png` and template `200_scale.png`. |
+
 
 ---
 
