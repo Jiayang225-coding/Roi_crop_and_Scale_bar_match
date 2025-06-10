@@ -44,6 +44,8 @@ Developed by JiaYang Li — Materials Engineer specialized in AI-assisted image 
 ---
 <h2>Program walk-through:</h2>
 
+Image_cropping video:
+https://github.com/user-attachments/assets/c207cf59-4f9f-4b42-b24e-baf25dfd097c
 <p align="center">
 Launch the utility: <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
